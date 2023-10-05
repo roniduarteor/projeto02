@@ -1,0 +1,47 @@
+body{
+    background-color: black;
+}
+
+.fotoInicial{
+    background-image: url(/projeto02/img/capa.jpg);
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+    
+
+}
+
+.navbar{
+    height: 50px;
+    background-color: #708090;
+    padding: 20px 25px;
+}
+
+a{
+    color: white;
+    text-align:center;
+    text-decoration: none;
+    background-size: 15px;
+    font-size: 20px;
+    margin-right: 25px;
+    font-size: 25px;
+
+}
+
+.titulo{
+    padding: 10px;
+}
+
+div{
+    color: white;
+}
+
+.rodape{
+    text-align: center;
+}
+
+
+
+.margem{
+    border-left: solid 15px black;
+}
